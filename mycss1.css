@@ -25,7 +25,12 @@ body {
   }
 
   .kalimatpembuka{
-    font-size: x-large;
+    font-size: large;
     border: rgb(13, 71, 232);
     border-radius: 50px;
+  }
+  .img2 {
+    float: left;
+    clip-path: ellipse(40% 50%);
+    shape-outside: ellipse(45% 50%);
   }
